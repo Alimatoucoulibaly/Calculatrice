@@ -9,8 +9,9 @@ print("Bienvenue dans l'application de calculatrice améliorée !")
 
 def addition(a, b):
     return a + b
-
 print("Résultat de 3 + 5 :", addition(3, 5))
 
-
-
+print("Résultat de 3 * 5 :", multiplication(3, 5))
+def multiplicatin(a, b):
+    return a * b
+print("Résultat de 3 * 5 :", multiplicatin(3, 5))
