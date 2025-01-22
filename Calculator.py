@@ -1,5 +1,5 @@
 # Calculatrice simple
-print("Bienvenue dans la calculatrice !")
+print("Bienvenue dans la calculatrice collaborative !")
 def addition(a, b):
     return a + b
 
