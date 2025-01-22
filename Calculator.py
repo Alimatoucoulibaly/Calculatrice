@@ -4,7 +4,7 @@ def soustraction(a, b):
 print("Résultat de 8 - 2 :", soustraction(8, 2))
 
 # Calculatrice simple
-print("Bienvenue dans la calculatrice !")
+print("Bienvenue dans la calculatrice collaborative !")
 def addition(a, b):
     return a + b
 
